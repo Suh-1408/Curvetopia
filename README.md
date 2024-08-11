@@ -3,7 +3,7 @@
 
 Curvetopia is a comprehensive project aimed at identifying, regularizing, and beautifying 2D curves. The project processes polylines to fit and smooth shapes like circles, ellipses, polygons, and Bézier curves, providing tools to handle isolated and fragmented curves, detect symmetry, and complete incomplete curves.
 
---This project was created  as a part of "ADOBE ZENSOLVE 2024".
+--This project was created  as a part of "ADOBE GENSOLVE 2024".
 
 ## Objective
 
