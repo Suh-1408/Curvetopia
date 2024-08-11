@@ -29,7 +29,7 @@ The project begins by working with polylines defined by sequences of points. The
 Web app link : https://colab.research.google.com/drive/1HsRCb3QU92v8knxkAUJ_YTI1Hl_kBPR9
 Steps for Live Demo :
 1) Follow the web App link given above and go to google colab.
-2) Run the project and upload input csv file uploaded in this repository.
+2) Run the project and upload input csv file attached with this repository.
 
 ## Team Members
                                         TEAM NAME - BeingIIITAins
