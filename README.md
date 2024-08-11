@@ -26,7 +26,7 @@ The project begins by working with polylines defined by sequences of points. The
 - **Complete Incomplete Curves**: Use techniques to complete curves that have gaps.
 - 
 ## Functionality 
-We have added the epsilon functionality which we can adjust to accurately get the curves.
+We have added the epsilon functionality which we can adjust to accurately get the curves by smoothening or sharpening the edges.
 ## Steps for Live Implementation
 Web app link : https://colab.research.google.com/drive/1HsRCb3QU92v8knxkAUJ_YTI1Hl_kBPR9
 Steps for Live Demo :
